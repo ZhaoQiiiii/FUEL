@@ -1,3 +1,8 @@
+.vscode/
+build/
+devel/
+/.catkin_workspace
+
 fuel_planner/.vscode
 *.vscode/
 *.clang-format
