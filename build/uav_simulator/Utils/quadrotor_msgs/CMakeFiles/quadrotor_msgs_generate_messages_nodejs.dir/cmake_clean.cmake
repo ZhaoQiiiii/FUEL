@@ -1,0 +1,21 @@
+file(REMOVE_RECURSE
+  "/home/wzq/catkin_ws/FUEL/devel/share/gennodejs/ros/quadrotor_msgs/msg/AuxCommand.js"
+  "/home/wzq/catkin_ws/FUEL/devel/share/gennodejs/ros/quadrotor_msgs/msg/Corrections.js"
+  "/home/wzq/catkin_ws/FUEL/devel/share/gennodejs/ros/quadrotor_msgs/msg/Gains.js"
+  "/home/wzq/catkin_ws/FUEL/devel/share/gennodejs/ros/quadrotor_msgs/msg/LQRTrajectory.js"
+  "/home/wzq/catkin_ws/FUEL/devel/share/gennodejs/ros/quadrotor_msgs/msg/Odometry.js"
+  "/home/wzq/catkin_ws/FUEL/devel/share/gennodejs/ros/quadrotor_msgs/msg/OutputData.js"
+  "/home/wzq/catkin_ws/FUEL/devel/share/gennodejs/ros/quadrotor_msgs/msg/PPROutputData.js"
+  "/home/wzq/catkin_ws/FUEL/devel/share/gennodejs/ros/quadrotor_msgs/msg/PolynomialTrajectory.js"
+  "/home/wzq/catkin_ws/FUEL/devel/share/gennodejs/ros/quadrotor_msgs/msg/PositionCommand.js"
+  "/home/wzq/catkin_ws/FUEL/devel/share/gennodejs/ros/quadrotor_msgs/msg/SO3Command.js"
+  "/home/wzq/catkin_ws/FUEL/devel/share/gennodejs/ros/quadrotor_msgs/msg/Serial.js"
+  "/home/wzq/catkin_ws/FUEL/devel/share/gennodejs/ros/quadrotor_msgs/msg/StatusData.js"
+  "/home/wzq/catkin_ws/FUEL/devel/share/gennodejs/ros/quadrotor_msgs/msg/TRPYCommand.js"
+  "CMakeFiles/quadrotor_msgs_generate_messages_nodejs"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang )
+  include(CMakeFiles/quadrotor_msgs_generate_messages_nodejs.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
